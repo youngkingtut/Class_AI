@@ -1,5 +1,4 @@
 import random
-from collections import defaultdict
 
 DIRT_SQUARE = 1
 
